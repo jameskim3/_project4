@@ -1,0 +1,6 @@
+git status
+git add -A
+git commit -m "1"
+git push origin master
+
+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
