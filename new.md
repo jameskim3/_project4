@@ -1,20 +1,34 @@
+집
+[질문 예시]
+1.	가장 좋아하는 방
+A.	I would like to know where you live. Which is your favorite room at home? What does it look like? What do you mostly do threre?
+B.	One of my favorite room is my bedroom because I can do so much there. [예시]. I usually watch tv, read books, and I can even eat while I’m getting ready for work in the morning. My favorite thing to do is probably lying on my bed and being lazy because it’s so comportable. Also, I like having some privacy. After a long day work, I often enjoy being alone and my bedroom is definitely the perfect place for that. So that’s why I think my bedroom is the best place in my house.
+2.	집에서 하는 일과 청소 방법
+A.	Now, tell me about the things that you do at home. What are some parts of daily routine? What is special about each activity? 
+i.	Tell me about how you usually clean your house. How often do you clean? What is your favorite part of cleaning the house?
+B.	I don’t like to go out that much these days. I’d rather stay at home and do other activities. [사례]. I like to clean up the house when I get some time off. First, I open all the windows. Next, I vacuum and mop the floors. It usually take 20 minutes to do that. After that, I usually clean the bathroom. I spray water on the floor and wash the toilet with a brush. I like to keep my bathroom clean. When it’s done, I also do the laundry from time to time. I usually listen to music while doing the dishes. I’ve been so busy at work these days. So I rarely do the house chores. That’s how it is , these are what I usually do when I am at home.
+3.	집에 준 변화
+A.	Tell me about a change you made to your home. What was the change and why did you make that change? How did your home look like afterward? Give me some details.
+B.	I remember when my parents decided to remodel the kitchen. [계기]. The kitchen was getting old, and my parents wanted to do something about it. [변화전]. It took some time packing up. We ended up finding some old pots and pans that we didn’t know we had. Once the construction started, we had to eat out almost every day. The project took almost 2 weeks to finish, but it was worth the wait. [결과]. Everything in the kitchen was brand new. [결론]. That’s it. Once again, I’m happy my parents decided to redo the kitchen.
+4.	어렸을 때 집과 비교
+A.	Tell me about the house or apartment you lived in when you were a child. How was it different from the one you live in now? What are the similarity and differences?
+B.	I remember when I lived in an apartment complex as I was child. I used to hang out with my neighbors all the time. Because I lived in the rural area, there was a large river and lots of mountains close to my house. [현재]. Even though, I still live in an apartment complex, it’s a bit different from the place I grew up. Both are apartment complexes, but my new one has a great city view. My favorite thing to do is when I have a bottle of beer and enjoy the view of the city. Plus, public transportation is accessible, so it has become a lot better that the past. I can just walk out and take the subway within 5 minutes. [결론]. Overall, I enjoy living in apartment complexes, both in the country and in the city.
 
 Restaurants
-
 [질문 예시]
-1.	우리나라 음식점
+5.	우리나라 음식점
 A.	I would like to know about restaurants in your country. What do typical restaurants look like? What kind of food do they commonly serve? How are the people who work there? Give me all the details about a typical restaurant in your country
 B.	There are many different restaurants serving diverse dishes in Korea. However , traditional Koreans restaurants are different from the others. First, in Korea restaurants, it is customary to eat sitting on the floor. Although new and recently opened restaurants have tables and chairs, usually floor seating areas are available as well. People sit on the floor and eat at a low table. Another difference is that the main dish is served along with small portions of side dishes and rice in Korean restaurants. Also, Kimchi is served at every Korean restaurant. Well, That’s all I can think of at the moment.
-2.	최근 외식 경험
+6.	최근 외식 경험
 A.	Tell me about a restaurant you ate out at recently. What kind of restaurant was it? What was on their menu and what did you eat? Who did you go with? Did you like how the food tasted? Give me all the details.
 B.	The last time I had pizza was at a pizza place in Itaewon with my friends. It took about 30 minutes to get there from where I live. We ordered one potato pizza , a seafood pasta, and chicken tender salad. Overall, the food was great, probably because we were all very hungry. However, there were a few things that we didn’t like. The restaurant was quite small and they didn’t have many tables. We had to wait about 30 minutes to be seated and then another 30 minutes for our food to be served. That’s it, overall, I had a great time at the restaurant with my friends.
 
-3.	과거, 현재음식점 변화
+7.	과거, 현재음식점 변화
 A.	Now, tell me about a restaurant you used to go to as a child. What was it like? What did you eat? Who did you go with? What do you remember most about that place? Tell me about that restaurant in as much detail as possible.
 B.	There was a Korean barbeque restaurant that my family used to go to. That place served an amazing marinated barbeque that all of us love. We ate at the restaurant as least once a month always left with complete satisfaction. 
 C.	When I was a child, the owner also gave us some free ice cream and candy. He also allowed me and my cousins to play at the small playground next to the parking lot. The owner lives on the second floor, and he made the playground for his kids. I still go to other Korean barbeque restaurants from time to time, but the food at that place was the best. Once again, that restaurant was definitely the best restaurant I’ve ever been to.
 
-4.	음식점 변화
+8.	음식점 변화
 A.	Tell me about how restaurants have changed over the yours. Also, tell me about what is different about going out to eat . What are some changes you’ve noticed about eating out?
 Beaches
 
@@ -78,3 +92,12 @@ B.	I don’t remember a particular experience at a bank. The only thing I rememb
 3.	은행의 변화
 A.	Banks have changed over the years. How do banks look different than they did in the past? What kind of changes are the most evident? What kind of impact have those changes had on the customers? Give me all the detail.
 B.	The banking system has changed a lot in the last few decades, [과거]. I used to got to a bank when I need something. However, things have changed a lot. [현재]. As I can get access to the internet with my smart phone whenever I want to, I don’t need to go to a bank as much as I did in the past. I can check my balance, transfer, and even pay my bills on line. In general, most people take care of their business on the internet these days. The only time I go to the bank is when I withdraw money from the ATM machine. [마무리]. Once again, bank system has changed a lot in the last few years, so people usually take care of business on the internet.
+Fashion
+[질문 예시]
+1.	우리나라 사람들의 패션
+A.	I would like to know how people dress in your country. What kind of  clothes do they war? What is special about the fashion styles in your country?
+B.	To be honest, it is very hard to describe how people dress in my country because Korean people are very fashion conscious. Plus, there are plenty of fashion brands that people like to wear. [상황 별 패션]. People normally wear different types of cloths depending on the situation. During the weekdays, most people wear business attire because of the dress code they have. [이유]. Normally most companies have their own dress code, so it is proper to wear professionally. However, when people don’t go to work, on the weekend or when they have some days off, most people wear casual clothes. People love to wear jeans with comfortable shoes. [마무리] that’s it. So the thing is, the clothing depends on the situation we’re in.
+2.	과거와 현재 패션 비교
+A.	How have fashion trends in your country changed over the years? Do you think people in your country follow the latest fashions? If so, tell me why.
+B.	Fashion trends have changed a lot over the years. [과거패션]. In the past, I don’t think people cared much about what they wore. They just wore whatever depending on the situation. When I was child, I remember that people with the same age normally wore similar types of clothes. For example, many teenagers used to wear baggy clothes for styles such as hip-hop musicians. [요즘]. However, these days, people prefer to wear different types of fashion style even if they are in the same generation. Since we have the internet, most people started to be influenced by the media and what they see on tv or movies. People are interested in what celebrities wear, so many brands try to use celebrity endorsement to advertise their items. For example, I like to wear skinny jeans with a tight t-shirts while my friends love to wear oversized jumper with baggy jeans. Everyone has their own unique fashion style that they want to wear. [결론]. So overall, the ideas about how to dress have changed a lot over the years.
+C.	
