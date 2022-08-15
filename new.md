@@ -13,22 +13,46 @@ B.	I remember when my parents decided to remodel the kitchen. [계기]. The kitc
 4.	어렸을 때 집과 비교
 A.	Tell me about the house or apartment you lived in when you were a child. How was it different from the one you live in now? What are the similarity and differences?
 B.	I remember when I lived in an apartment complex as I was child. I used to hang out with my neighbors all the time. Because I lived in the rural area, there was a large river and lots of mountains close to my house. [현재]. Even though, I still live in an apartment complex, it’s a bit different from the place I grew up. Both are apartment complexes, but my new one has a great city view. My favorite thing to do is when I have a bottle of beer and enjoy the view of the city. Plus, public transportation is accessible, so it has become a lot better that the past. I can just walk out and take the subway within 5 minutes. [결론]. Overall, I enjoy living in apartment complexes, both in the country and in the city.
-
+Music
+[질문 예시]
+1.	좋아하는 음악 장르, 좋아하는 가수
+A.	You indicated that you like to listen to music. What type of music do you like listening to? Plus, who is your favorite singer or composer? What is special about his or her music?
+B.	I personally like listening to all kinds of music, depending on the situation. [종류,이유]. Sometimes, I feel like listening to hip-hop because it helps me unwind. Listening to fast songs helps me get in the zone when I’m jogging or work out. [종류2]. On the other hand, there are times when I feel like listening to slow songs. Slow songs help me relax after a long day at work. I especially like love songs because they remind me of my first love. [좋아하는 가수]. One of my favorite musicians is a Korean singer called Ailee. She is one of the most famous musicians in Korea. She is not only a great singer but also a great dancer. I like her so much because she is a really amazing performer. I hope more people discover her music.
+2.	음악을 언제 어디서 듣는지
+A.	When and where do you like to listen to music? Why do you listen to music?
+B.	I used to listen to music on my mp3 player a few years ago. But now, things are changed a lot. [기기]. Because I always have my smart phone on me all the time, I listen to music with my smart phone. I don’t have any particular place where I listen to music. I listen to music wherever I want and whenever I am. [장소]. However, there are some places where I usually listen to music. I listen to music at coffee shops because I have to concentrate on something. [장소2]. I also listen to music on the move. It usually 20 minutes to get to company, so I usually put on some music on the bus. [마무리]. Overall, I listen to music wherever I am whenever I want because I always have my smart phone on me.
+3.	라이브 음악을 들었던 콘서트
+A.	Tell me about a time when you went to listen to some live music. Perhaps it was at a concert or a live café. What was the mood like and how did you like the music you listened to there?
+B.	A couple of yours ago, I remember going to a concert at the Olympic stadium. I went there with one of my friends. [가기 전]. Since this was my first time going to a concert, I was very curious and excited. It was very special because the singer is my favorite artist of all time and I had never seen his performance in person. [가서 느낌]. The concert began with a singer’s powerful dance. I moved to the music while dancing. All the performers on the stage that day were very impressive. [간 후]. That’s about it. Once again, I still think it was definitely the best concert I have ever been to.
+4.	좋아하는 가수
+A.	Now, pick two singers you like. What is special about their music? What are some similarities and differences between the two singers?
+B.	One of my favorite musicians is a Korean singer called Ailee. She is one of the most famous musicians in Korea. She is not only a great singer but also a great dancer. I like her so much because she is a really amazing performer. I hope more people discover her music.
+휴가
+[질문 예시]
+1.	휴가를 보내는 경향
+A.	You indicated that you take vacations at home. Who do you meet when you spend vacations at home? What do you do with them? Plus, who do you want to meet in the future for your vacation? Why is that?
+B.	Nothing beats staying at home during vacations, especially after busy days with heavy workload. So, I personally prefer to stay at home and spend time with the people I love. [보내는사람,하는일]. I enjoy spending time with my friends when I get some day off. When I meet up with my friends, we usually go to one of our hangouts and have lunch or dinner together or grab a bear. We talk about what we have been doing. We also talk about special event that have happened and life in general. [보내는사람,하는일2]. I also like eating out with my family members and talking about things that are going on in my life. They are always on my side, so I enjoy talking to them. [마무리]. Well, that’s about it, I usually have a great time with my friends and family during my vacation.
+2.	지난 휴가
+A.	Tell me about what you did during last vacation. How did your vacation start and how it end? What did you do on each day? Tell me everything about the things you did on your last vacation at home.
+B.	I remember spending a vacation at home a few months ago. I was very tired from work, so I decided to stay at home and recharge my battery. [경험한 것]. The next day, I met up with my friends that I don’t get to see that much. We went to one of our hangouts and grabbed a beer. We also went to karaoke room to sing our favorite songs. I was a bit tipsy but it’s always fun to spend time with people who I love. We also talked about special events that have happened and life in general. [결론]. Well, that’s it. That’s all I can think of at the moment. That is what I did last vacation.
+3.	기억에 남는 휴가
+A.	Now, tell me about an unusual or unexpected experience you had during a vacation you spent at home. Why was it memorable? Who were you with? Where were you at?  What did you do? What are some things and events that you remember?
+B.	I remember when I had food poisoning at home a few years ago. [사건]. There was something wrong with the food I had that day. I think it was some improperly cooked meat that I had in the morning. I felt nauseous. I had stomach pains, vomiting, and even a high fever. [결과]. So, I had to go to see a doctor immediately. I had to take some medicine and not eat for a day. The worst things was that I was supposed to meet up with my old friend from school. However, I had to cancel our plans and stay at home. I felt very bad because I knew that I wouldn’t be able to see him for a couple of years. Fortunately, I was able to see him later. [결론]. However, I still regret the fact that I couldn’t see my friend that day. That’s it. It was the worst vacation I have ever had.
 Restaurants
 [질문 예시]
-5.	우리나라 음식점
+4.	우리나라 음식점
 A.	I would like to know about restaurants in your country. What do typical restaurants look like? What kind of food do they commonly serve? How are the people who work there? Give me all the details about a typical restaurant in your country
 B.	There are many different restaurants serving diverse dishes in Korea. However , traditional Koreans restaurants are different from the others. First, in Korea restaurants, it is customary to eat sitting on the floor. Although new and recently opened restaurants have tables and chairs, usually floor seating areas are available as well. People sit on the floor and eat at a low table. Another difference is that the main dish is served along with small portions of side dishes and rice in Korean restaurants. Also, Kimchi is served at every Korean restaurant. Well, That’s all I can think of at the moment.
-6.	최근 외식 경험
+5.	최근 외식 경험
 A.	Tell me about a restaurant you ate out at recently. What kind of restaurant was it? What was on their menu and what did you eat? Who did you go with? Did you like how the food tasted? Give me all the details.
 B.	The last time I had pizza was at a pizza place in Itaewon with my friends. It took about 30 minutes to get there from where I live. We ordered one potato pizza , a seafood pasta, and chicken tender salad. Overall, the food was great, probably because we were all very hungry. However, there were a few things that we didn’t like. The restaurant was quite small and they didn’t have many tables. We had to wait about 30 minutes to be seated and then another 30 minutes for our food to be served. That’s it, overall, I had a great time at the restaurant with my friends.
 
-7.	과거, 현재음식점 변화
+6.	과거, 현재음식점 변화
 A.	Now, tell me about a restaurant you used to go to as a child. What was it like? What did you eat? Who did you go with? What do you remember most about that place? Tell me about that restaurant in as much detail as possible.
 B.	There was a Korean barbeque restaurant that my family used to go to. That place served an amazing marinated barbeque that all of us love. We ate at the restaurant as least once a month always left with complete satisfaction. 
 C.	When I was a child, the owner also gave us some free ice cream and candy. He also allowed me and my cousins to play at the small playground next to the parking lot. The owner lives on the second floor, and he made the playground for his kids. I still go to other Korean barbeque restaurants from time to time, but the food at that place was the best. Once again, that restaurant was definitely the best restaurant I’ve ever been to.
 
-8.	음식점 변화
+7.	음식점 변화
 A.	Tell me about how restaurants have changed over the yours. Also, tell me about what is different about going out to eat . What are some changes you’ve noticed about eating out?
 Beaches
 
